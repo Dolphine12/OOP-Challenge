@@ -1,6 +1,7 @@
-# Pet Simulator 🐾
+# Pet Simulator; Where Virtual paws meet real emotions. 🐾
 
-Welcome to the **Pet Simulator**, a fun and interactive program that allows users to create and interact with their virtual pet. You can feed, play, teach tricks, and check the status of your pet in this simple text-based simulator.
+Pet Simulator is a fun and interactive game that lets you raise and care for your own virtual pet. You'll feed it, play games, teach it cool tricks, and make sure it gets enough rest. Your pet responds realistically—getting tired, hungry, happy, or bored depending on your choices. With hidden reactions to different games and the ability to train new skills, every session brings a new layer of interaction. It’s more than just a pet—it’s a personality waiting to grow!
+
 
 ---
 
@@ -9,17 +10,13 @@ Welcome to the **Pet Simulator**, a fun and interactive program that allows user
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [How to Use](#how-to-use)
-- [Screenshots](#screenshots)
-- [Video Demonstration](#video-demonstration)
 - [Technologies Used](#technologies-used)
-- [Authors and Contributors](#authors-and-contributors)
-- [Future Improvements](#future-improvements)
 
 ---
 
 ## About the Project
 
-The **Pet Simulator** is a Python-based program designed to simulate the experience of owning and interacting with a virtual pet. It uses object-oriented programming (OOP) principles to create a `Pet` class with attributes and methods that allow users to perform various actions with their pet.
+The **Pet Simulator** is a Python-based program which uses object-oriented programming (OOP) principles to create a virtual pet with class attributes and methods, allowing users to perform various actions with their pet.
 
 This project is beginner-friendly and demonstrates the use of:
 
@@ -35,9 +32,9 @@ This project is beginner-friendly and demonstrates the use of:
 
 - **Create a Pet**: Name your pet and start interacting with it.
 - **Feed Your Pet**: Keep your pet happy and healthy by feeding it.
-- **Play with Your Pet**: Spend quality time with your pet to increase its happiness.
-- **Teach Tricks**: Teach your pet new tricks and watch it grow smarter.
-- **Check Status**: View your pet's current status, including its health and happiness levels.
+- **Play with Your Pet**: Spend quality time with your pet but with a twist😜. The pet has games that they like and dislike, if you suggest playing a boring game the pet gets bored and goes to sleep otherwise it has fun and increases the energy levels.
+- **Teach Tricks**: You get to Teach your pet new tricks.
+- **Check Status**: View your pet's current status, including its health and happiness levels depending on your interactivity.
 - **Sleep Mode**: Allow your pet to rest and recharge.
 - **Show Tricks**: Display all the tricks your pet has learned.
 - **Exit Gracefully**: Close the simulator with a friendly goodbye message.
@@ -49,14 +46,14 @@ This project is beginner-friendly and demonstrates the use of:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/emma-obelenge/OOP-Challenge_Group-433.git
+   git clone https://github.com/Dolphine12/OOP-Challenge.git
 
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd OOP-Challenge_Group-433
+   cd OOP-Challenge
 
    ```
 
@@ -65,25 +62,6 @@ This project is beginner-friendly and demonstrates the use of:
 
 4. Follow the on-screen instructions to interact with your pet.
 
-## Screenshots
-
-<div style="display: flex; flex-direction: column; gap: 10px;">
-
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Fmain_menu.png" alt="Main Menu" width="400" height="500">
-
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Ffeeding_pet.png" alt="Feeding Your Pet" width="400" height="500">
-
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screenshots%2Fteaching_tricks.png" alt="Teaching Tricks" width="400" height="500">
-
-</div>
-
-## Video Demonstration
-
-<img src="https://github.com/emma-obelenge/OOP-Challenge_Group-433/blob/master/screen_record%2FPLP_Group-433_Pet_Simulator_Display.gif" alt="Feeding Your Pet" width="400" height="500">
-
-Click [here](https://youtube.com/shorts/vAQlKm_Grg4?si=q_EIvip79IOPGA2R) to watch the complete video.
-
-
 
 ## Technologies Used
 
@@ -91,55 +69,4 @@ Click [here](https://youtube.com/shorts/vAQlKm_Grg4?si=q_EIvip79IOPGA2R) to watc
 
 - **Python**
 
-### Libraries
-
-- **time**: Used for delays and animations.
-
----
-
-## Authors and Contributors
-
-This project was developed as part of the **PLP Academy Group Assignment**. Below are the contributors:
-
-### Group 433 Members
-
-#### Emmanuel Obelenge
-
-- **Role**: Lead Developer
-- **Email**: [obeleemmanuel@gmail.com](mailto:obeleemmanuel@gmail.com)
-- **GitHub**: [@emma-obelenge](https://github.com/emma-obelenge)
-
-#### Tabitha Tsisika Lisanza
-
-- **Role**: Code Testing
-- **Email**: [lisanzatabitha@gmail.com](mailto:lisanzatabitha@gmail.com)
-- **GitHub**: [@lisanzatabby](https://github.com/lisanzaTabby)
-
-#### Berlyn Mumbua Mutinda
-
-- **Role**:  Implementing init methods with rules
-- **Email**: [berlynmumbua@gmail.com](mailto:berlynmumbua@gmail.com)
-- **GitHub**: [@mumbua-mutinda](https://github.com/mumbua-mutinda)
-
-#### RODGERS MARAGIA
-
-- **Role**: Code testing, Review correct code workability and Error Correction/debugging.
-- **Email**: [r28081999m@gmail.com](mailto:r28081999m@gmail.com)
-- **GitHub**: [@Rockjunior](https://github.com/Rockjunior)
-
-#### Evan Omanga
-
-- **Role**: ReadMe.md file documentation
-- **Email**: [evanwayodi19@gmail.com](mailto:evanwayodi19@gmail.com)
-- **GitHub**: [Evan19-CoDe](https://github.com/Evan19-CoDe)
-
-## Future Improvements
-
-- **Graphical User Interface (GUI)**: Introduce a visually appealing GUI to improve user interaction and experience.
-- **Additional Pet Actions**: Expand the range of actions, such as grooming your pet or taking it to the vet for checkups.
-- **Scoring System**: Implement a scoring mechanism to track and reward users for taking good care of their pet.
-- **Save and Load Feature**: Allow users to save their pet's progress and resume their journey anytime.
-
-Stay tuned for updates as we continue to make the **Pet Simulator** even more engaging and fun!
-
-Thank you for using the Pet Simulator! We hope you enjoy interacting with your virtual pet. 🐾
+Thank you for using the Pet Simulator! hope you enjoyed the Experience.🐾
